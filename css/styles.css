@@ -1,0 +1,131 @@
+a {
+    color: #E7F6F2;
+}
+
+a:hover {
+    color: #A5C9CA;
+}
+
+body {
+    color: #2C3333;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #395B64;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+h2  {
+    color: #395B64;
+    font-family: 'Montiserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #E7F6F2;
+    font-family: 'Montiserrat', sans-serif;
+}
+
+hr {
+    background-color: #A5C9CA;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 60px;
+    border-width: 16px;
+    border-color: #E7F6F2;
+    margin: 100px auto 100px auto;
+    
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+}
+
+.top-container {
+    background-color: #A5C9CA;
+    margin: 0;
+    position: relative;
+}
+
+.middle-container {
+    background-color: #A5C9CA;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    background-color: #395B64;
+    padding: 25px;
+}
+
+.upper-cloud {
+    position: absolute;
+    right: 300px;
+    bottom: 600px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    height: 200px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.programmer-img {
+    margin-top: 50px;
+    width: 12.5%;
+}
+
+.computer-img {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.formula-img {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.contact-message {
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montiserrat', sans-serif;
+    color: #A5C9CA;
+    font-size: 20px;
+    background: #E7F6F2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #2C3333;
+    text-decoration: none;
+  }
+
+  .footer-link {
+    text-decoration: none;
+    margin: auto 20px auto 20px;
+  }
